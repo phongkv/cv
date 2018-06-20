@@ -230,7 +230,9 @@ img{
 .home .typewrite{
 	color: #ff724c;
 }
-
+.home .typewrite span{
+	border-color: #ff724c;
+}
 .home .frontend{
     color: #ff724c;
     font-size: 20px;
